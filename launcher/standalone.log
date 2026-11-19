@@ -1,0 +1,132 @@
+﻿2026-11-14 09:11:03  ---- start. PowerShell 5.1.26100.9818, Windows 10.0.26300.0, 64-bit process: True
+2026-11-14 09:11:09  File helper started.
+2026-11-14 09:11:09  WebView2 runtime found: 157.0.4341.46
+2026-11-14 09:11:09  Window code compiled.
+2026-11-14 09:11:11  Window ready. WebView2 runtime 157.0.4341.46
+2026-11-14 09:40:24  ---- start. PowerShell 5.1.26100.9818, Windows 10.0.26300.0, 64-bit process: True
+2026-11-14 09:40:29  File helper started.
+2026-11-14 09:40:29  WebView2 runtime found: 157.0.4341.46
+2026-11-14 09:40:29  Window code compiled.
+2026-11-14 09:40:30  Window ready. WebView2 runtime 157.0.4341.46
+2026-11-14 15:43:59  ---- start. PowerShell 5.1.26100.9818, Windows 10.0.26300.0, 64-bit process: True
+2026-11-14 15:44:04  File helper started.
+2026-11-14 15:44:04  WebView2 runtime found: 157.0.4341.46
+2026-11-14 15:44:05  Window code compiled (shell.cs).
+2026-11-14 15:44:05  Window ready. WebView2 runtime 157.0.4341.46
+2026-11-14 15:50:25  ---- start. PowerShell 5.1.26100.9818, Windows 10.0.26300.0, 64-bit process: True
+2026-11-14 15:50:29  File helper started.
+2026-11-14 15:50:29  WebView2 runtime found: 157.0.4341.46
+2026-11-14 15:50:29  Window code compiled (shell.cs).
+2026-11-14 15:50:30  Window ready. WebView2 runtime 157.0.4341.46
+2026-11-14 19:47:12  ---- start. PowerShell 5.1.26100.9818, Windows 10.0.26300.0, 64-bit process: True
+2026-11-14 19:47:17  File helper started.
+2026-11-14 19:47:17  WebView2 runtime found: 157.0.4341.46
+2026-11-14 19:47:18  Window code compiled (shell.cs).
+2026-11-14 19:47:19  Window ready. WebView2 runtime 157.0.4341.46
+2026-11-14 20:06:59  Window closing.
+2026-11-15 10:59:09  install: ---- installing. PowerShell 5.1.26100.9818, Windows 10.0.26300.0
+2026-11-15 10:59:09  install: Glasswave.exe built: C:\Users\jayde\Music\Glasswave\Glasswave.exe
+2026-11-15 10:59:10  Start menu entry written: C:\Users\jayde\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Glasswave.lnk
+2026-11-15 10:59:19  install: Installed.
+2026-11-15 10:59:19  ---- start (Glasswave.exe). Windows 6.2.9200.0, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 10:59:19  WebView2 runtime found: 157.0.4341.46
+2026-11-15 10:59:20  Window code compiled (shell.cs).
+2026-11-15 10:59:20  File helper started.
+2026-11-15 10:59:21  Window ready. WebView2 runtime 157.0.4341.46
+2026-11-15 11:55:36  ---- start (Glasswave.exe). Windows 6.2.9200.0, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 11:55:36  WebView2 runtime found: 157.0.4341.46
+2026-11-15 11:55:38  Window code compiled (shell.cs).
+2026-11-15 11:55:38  File helper started.
+2026-11-15 11:55:38  Window opens 1337 x 830 at 254,100, as it was last time.
+2026-11-15 11:55:38  Taskbar preview buttons could not be added: Unable to cast COM object of type 'Glasswave.TaskbarListObject' to interface type 'Glasswave.ITaskbarList3'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{EA1AFB91-9E28-4B86-90E9-9E9F8A5EEE6F}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+2026-11-15 11:55:38  Window ready. WebView2 runtime 157.0.4341.46
+2026-11-15 16:59:31  ---- start (Glasswave.exe). Windows 6.2.9200.0, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 16:59:31  WebView2 runtime found: 157.0.4341.46
+2026-11-15 16:59:32  Window code compiled (shell.cs).
+2026-11-15 16:59:32  File helper started.
+2026-11-15 16:59:32  Window opens 1337 x 830 at 254,100, as it was last time.
+2026-11-15 16:59:33  Taskbar preview buttons: the window's thread (STA) was turned down (Unable to cast COM object of type 'Glasswave.TaskbarListObject' to interface type 'Glasswave.ITaskbarList3'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{EA1AFB91-9E28-4B86-90E9-9E9F8A5EEE6F}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).); trying a thread of their own.
+2026-11-15 16:59:33  Taskbar preview buttons could not be added: Unable to cast COM object of type 'Glasswave.TaskbarListObject' to interface type 'Glasswave.ITaskbarList3'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{EA1AFB91-9E28-4B86-90E9-9E9F8A5EEE6F}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+2026-11-15 16:59:33  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 16:59:36  Glasswave.cs changed; building a new Glasswave.exe.
+2026-11-15 16:59:37  Glasswave.exe updated; the new version opens next time.
+2026-11-15 17:00:19  ---- start (Glasswave.exe). Windows 10.0.26300 (Glasswave.exe is missing its Windows 10/11 note; it rebuilds itself), .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 17:00:19  WebView2 runtime found: 157.0.4341.46
+2026-11-15 17:00:19  Window code ready (shell.cs).
+2026-11-15 17:00:19  File helper started.
+2026-11-15 17:00:19  Window opens 1337 x 830 at 254,100, as it was last time.
+2026-11-15 17:00:20  Taskbar preview buttons: the window's thread (STA) was turned down (Unable to cast COM object of type 'Glasswave.TaskbarListObject' to interface type 'Glasswave.ITaskbarList3'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{EA1AFB91-9E28-4B86-90E9-9E9F8A5EEE6F}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).); trying a thread of their own.
+2026-11-15 17:00:20  Taskbar preview buttons could not be added: Unable to cast COM object of type 'Glasswave.TaskbarListObject' to interface type 'Glasswave.ITaskbarList3'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{EA1AFB91-9E28-4B86-90E9-9E9F8A5EEE6F}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+2026-11-15 17:00:20  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 17:00:23  Building Glasswave.exe again with its Windows 10/11 note.
+2026-11-15 17:00:24  Glasswave.exe updated; the new version opens next time.
+2026-11-15 17:00:36  install: ---- installing. PowerShell 5.1.26100.9818, Windows 10.0.26300.0
+2026-11-15 17:00:36  install: Glasswave.exe built: C:\Users\jayde\Music\Glasswave\Glasswave.exe
+2026-11-15 17:00:36  Start menu entry written: C:\Users\jayde\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Glasswave.lnk
+2026-11-15 17:00:41  install: Installed.
+2026-11-15 17:00:41  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 17:00:41  WebView2 runtime found: 157.0.4341.46
+2026-11-15 17:00:41  Window code ready (shell.cs).
+2026-11-15 17:00:42  File helper started.
+2026-11-15 17:00:42  Window opens 1337 x 830 at 254,100, as it was last time.
+2026-11-15 17:00:42  Taskbar preview buttons: the window's thread (STA) was turned down (Unable to cast COM object of type 'Glasswave.TaskbarListObject' to interface type 'Glasswave.ITaskbarList3'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{EA1AFB91-9E28-4B86-90E9-9E9F8A5EEE6F}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).); trying a thread of their own.
+2026-11-15 17:00:42  Taskbar preview buttons could not be added: Unable to cast COM object of type 'Glasswave.TaskbarListObject' to interface type 'Glasswave.ITaskbarList3'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{EA1AFB91-9E28-4B86-90E9-9E9F8A5EEE6F}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+2026-11-15 17:00:42  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 17:55:20  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 17:55:20  WebView2 runtime found: 157.0.4341.46
+2026-11-15 17:55:22  Window code compiled (shell.cs).
+2026-11-15 17:55:22  File helper started.
+2026-11-15 17:55:22  Window opens 1337 x 830 at 257,110, as it was last time.
+2026-11-15 17:55:23  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 18:04:58  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 18:04:58  WebView2 runtime found: 157.0.4341.46
+2026-11-15 18:04:59  Window code compiled (shell.cs).
+2026-11-15 18:04:59  File helper started.
+2026-11-15 18:04:59  Window opens 1348 x 805 at 276,150, as it was last time.
+2026-11-15 18:05:00  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 18:05:16  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 18:05:16  WebView2 runtime found: 157.0.4341.46
+2026-11-15 18:05:16  Window code ready (shell.cs).
+2026-11-15 18:05:16  File helper started.
+2026-11-15 18:05:16  Window opens 1348 x 805 at 244,97, as it was last time.
+2026-11-15 18:05:17  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 18:18:18  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 18:18:19  WebView2 runtime found: 157.0.4341.46
+2026-11-15 18:18:19  Window code compiled (shell.cs).
+2026-11-15 18:18:20  File helper started.
+2026-11-15 18:18:20  Window opens 1348 x 805 at 244,97, as it was last time.
+2026-11-15 18:18:20  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 19:14:28  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 19:14:28  WebView2 runtime found: 157.0.4341.46
+2026-11-15 19:14:28  Window code ready (shell.cs).
+2026-11-15 19:14:28  File helper started.
+2026-11-15 19:14:28  Window opens 1348 x 805 at 244,97, as it was last time.
+2026-11-15 19:14:29  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 19:25:40  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 19:25:40  WebView2 runtime found: 157.0.4341.46
+2026-11-15 19:25:40  Window code ready (shell.cs).
+2026-11-15 19:25:40  File helper started.
+2026-11-15 19:25:41  Window opens 1348 x 805 at 244,97, as it was last time.
+2026-11-15 19:25:41  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-15 19:39:25  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-15 19:39:25  WebView2 runtime found: 157.0.4341.46
+2026-11-15 19:39:25  Window code ready (shell.cs).
+2026-11-15 19:39:26  File helper started.
+2026-11-15 19:39:26  Window opens 1348 x 805 at 244,97, as it was last time.
+2026-11-15 19:39:27  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-16 03:04:46  Window closing; its place was saved: 1396 x 922 at 233,108.
+2026-11-16 17:10:21  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-16 17:10:21  WebView2 runtime found: 157.0.4341.46
+2026-11-16 17:10:22  Window code ready (shell.cs).
+2026-11-16 17:10:22  File helper started.
+2026-11-16 17:10:22  Window opens 1396 x 922 at 233,108, as it was last time.
+2026-11-16 17:10:22  Window ready. WebView2 runtime 157.0.4341.46, window thread STA.
+2026-11-16 17:11:15  App: Spotify answered 403 to /playlists/5tWpa5OEF4kMDPU7Hzu1uL/items: Forbidden
+2026-11-16 17:11:20  App: Spotify answered 403 to /playlists/3SqvWwQRTvhdwMfgLKf0Lp/items: Forbidden
+2026-11-16 20:58:24  Window closing; its place was saved: 1402 x 980 at 170,67.
+2026-11-19 14:59:37  ---- start (Glasswave.exe). Windows 10.0.26300, .NET 4.0.30319.42000, 64-bit process: True
+2026-11-19 14:59:37  WebView2 runtime found: 157.0.4341.60
+2026-11-19 14:59:38  Window code ready (shell.cs).
+2026-11-19 14:59:38  File helper started.
+2026-11-19 14:59:38  Window opens 1402 x 980 at 170,67, as it was last time.
+2026-11-19 14:59:53  Window ready. WebView2 runtime 157.0.4341.60, window thread STA.

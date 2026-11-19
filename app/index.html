@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" data-fx="glass">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glasswave</title>
+<meta name="theme-color" content="#0b0d17">
+<meta name="description" content="Glasswave: a glass-style personal player for your Spotify account.">
+<link rel="icon" href="/icon.png">
+<link rel="apple-touch-icon" href="/icon-192.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="stylesheet" href="/styles.css">
+<script>try{var f=JSON.parse(localStorage.getItem('gw.fx'));if(f)document.documentElement.dataset.fx=f}catch(e){}</script>
+</head>
+<body>
+<!-- The ripple used by the "Liquid" effect setting. -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <filter id="gw-refract" x="-5%" y="-25%" width="110%" height="150%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.004 0.011" numOctaves="2" seed="11" result="noise"/>
+      <feGaussianBlur in="noise" stdDeviation="2.5" result="soft"/>
+      <feDisplacementMap in="SourceGraphic" in2="soft" scale="52" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+</svg>
+<div id="backdrop" aria-hidden="true">
+  <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+  <div class="art" id="art-a"></div><div class="art" id="art-b"></div>
+  <div class="veil"></div>
+</div>
+<div class="dragbar" aria-hidden="true">Glasswave</div>
+<div id="root"></div>
+<div id="toasts" aria-live="polite"></div>
+<noscript><p style="color:#fff;padding:24px;font-family:sans-serif">Glasswave needs JavaScript turned on.</p></noscript>
+<script type="module" src="/js/app.js"></script>
+</body>
+</html>

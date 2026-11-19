@@ -1,0 +1,9 @@
+# Extra music folders for Glasswave's Local Files page.
+#
+# Your Music folder is always included. To add more, write one folder per
+# line below (no quotes needed), save this file, then press Rescan on the
+# Local Files page. Lines that start with # are ignored.
+#
+# Example:
+# D:\Music
+# C:\Users\jayde\Downloads\Songs
